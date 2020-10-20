@@ -1,0 +1,420 @@
+/*
+Autor: Marina Krause Eskelsen
+30/08/2018
+*/
+
+/* Elementos básicos */
+
+body {
+    background-color: #cecece;
+}
+
+h1 {
+    font-family: Clarendon BT;
+    font-size: 22pt;
+    color: rgb(100, 12, 212);
+    text-align: left;
+}
+
+a {
+    color: inherit;
+    text-decoration-line: none;
+}
+
+
+/* Classes específicas */
+
+h1.textao {
+    font-size: 14pt;
+    color: rgb(60, 0, 135);
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+h1.noticia {
+    font-size: 20px;
+    color: rgb(60, 0, 135);
+    text-align: left;
+    padding-left: 20px;
+}
+
+h1.contato {
+    font-size: 18px;
+    color: rgb(60, 0, 135);
+    text-align: left;
+    padding-left: 20px;
+}
+
+h1.noticiadestaque {
+    font-size: 25pt;
+    color: rgb(240, 237, 17);
+    text-align: center;
+}
+
+h1.noticiadestaqueH:hover {
+    text-decoration: underline;
+}
+
+h1.outrasnoticias {
+    font-size: 17px;
+    color: rgb(60, 0, 135);
+    text-align: left;
+    text-indent: 1em;
+    border: 1px grey;
+    border-style: groove;
+    border-radius: 10px;
+    padding-right: 10px;
+}
+
+h1.formulario {
+    font-size: 17px;
+    color: rgb(60, 0, 135);
+    text-align: left;
+}
+
+h1.voltar {
+    font-size: 14pt;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h1.voltar:hover {
+    text-decoration: underline;
+}
+
+h1.rodape {
+    font-size: 14pt;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    float: left;
+    padding-bottom: 10px;
+}
+
+h1.rodape:hover {
+    text-decoration: underline;
+}
+
+h1.rodape2 {
+    font-size: 8pt;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    float: left;
+}
+
+h1.rodape2:hover {
+    text-decoration: underline;
+}
+
+h1.produtao {
+    font-size: 22px;
+    color: rgb(60, 0, 135);
+    text-align: justify;
+}
+
+a.rodape {
+    color: white;
+    text-decoration: none;
+}
+
+a.produto {
+    text-decoration: none;
+    color: black;
+}
+
+a.menu:hover {
+    color: rgb(156, 108, 88);
+    font-size: 27px;
+}
+
+img.capa {
+    width: 100%;
+}
+
+img.logo:hover {
+    height: 235px;
+}
+
+rodape.quemsomos {
+    height: 190px;
+}
+
+/* Classes genéricas */
+
+.recuo {
+    text-indent: 4em;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.arredondado {
+    border-radius: 10px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.justificar {
+    text-align: justify;
+}
+
+.aumentar {
+    width: 500px;
+    height: 200px;
+}
+
+.lado {
+    margin-left: 10px;
+}
+
+.lado1 {
+    margin-left: 50px;
+}
+
+.margem {
+    margin: auto;
+}
+
+.borda:hover {
+    border-style: inset;
+    border-width: 0.5px;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
+.outras:hover {
+    text-decoration: underline;
+}
+
+.opacidade {
+    opacity: 0.8;
+}
+
+.opacidade:hover {
+    opacity: 1;
+}
+
+/* Identificadores */
+
+/*Gerais*/
+
+#divContainer {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#divLogo {
+    position: absolute;
+    top: 18px;
+    left: 175px;
+}
+
+#divCabecalho {
+    background-color: white;
+}
+
+#divMenu {
+    position: absolute;
+    top: 210px;
+    left: 450px;
+    font-family: Clarendon BT;
+    font-size: 18pt;
+    border-radius: 20px;
+}
+
+#divPalavraMenu {
+    float: left;
+    color: rgb(60, 0, 135);
+    padding-left: 25px;
+    padding-right: 25px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+}
+
+#divCorpo {
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin: auto;
+}
+
+#divConecte {
+    position: fixed;
+    left: 0px;
+    top: 50px;
+    width: 10%;
+}
+
+#divCadaRede {
+    float: left;
+}
+
+#divRodape {
+    width: 100%;
+    background-color: rgb(60, 0, 135);
+    height: 180px;
+    float: left;
+}
+
+#divMapa {
+    text-align: center;
+    float: left;
+    line-height: 2px;
+    text-indent: 2em;
+    padding-left: 3%;
+    padding-right: 4%;
+    max-width: 60%;
+
+    border-right-width: 1px;
+    border-right-style: dashed;
+    border-right-color: white;
+}
+
+#divMensagens {
+    height: 300px;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#divNoticias {
+    text-align: center;
+    height: 300px;
+}
+
+#divVoltar {
+    padding-top: 260px;
+}
+
+#divVoltar2 {
+    padding-top: 130px;
+    text-align: center;
+}
+
+#divVoltar3 {
+    padding-top: 50px;
+    text-align: center;
+}
+
+/*Index*/
+
+#div1Index {
+    display: flex;
+}
+
+#div2Index {
+    display: flex;
+}
+
+#divTexto {
+    width: 45%;
+}
+
+#divImagem {
+    width: 52%;
+    text-align: center;
+    padding-top: 30px;
+    min-width: 470px;
+}
+
+#divNoticia1 {
+    text-align: center;
+    width: 52%;
+    min-width: 470px;
+}
+
+#divNoticia2 {
+    text-align: center;
+    width: 45%;
+    min-width: 300px;
+}
+
+#divBanner {
+    width: 100%;
+    padding-right: 40px;
+    position: center;
+}
+
+/*Quem somos*/
+
+#div1Quem {
+    display: flex;
+    width: 94%;
+    padding-left: 3%;
+}
+
+#divTextoQuem {
+    width: 55%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#divImagemQuem {
+    width: 40%;
+    padding: 10px;
+}
+
+/*Contato*/
+
+#divFilial {
+    width: 31%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+
+#divFormulario {
+    margin: auto;
+    width: 50%;
+}
+
+/*Produtos*/
+
+#div1Produto {
+    width: 100%;
+    display: flex;
+    margin-left: 10%;
+}
+
+#div2Produto {
+    width: 100%;
+    display: flex;
+    margin-left: 10%;
+}
+
+#divProduto {
+    float: left;
+    padding: 10px;
+    width: 270px;
+}
+
+#divCategoria {
+    width: 100%;
+}
+
+#divProdutao {
+    padding: 20px;
+    display: flex;
+    margin-bottom: auto;
+}
+
+#div1Produtao {
+    width: 40%;
+    padding-right: 50px;
+}
+
+#div2Produtao {
+    width: 40%;
+}
+
+#div3Produtao {
+    display: flex;
+}
