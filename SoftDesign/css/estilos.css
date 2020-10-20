@@ -1,0 +1,413 @@
+#container {
+    margin: 0 auto;
+    padding: 0px;
+    border: 0;
+    width: 1080px;
+}
+
+#header {
+    width: 1080px;
+    font-weight: bold;
+    color: #ffffff;
+    height: 75px;
+}
+
+#menu {
+    width: 1080px;
+    height: 75px;
+    background-color: #fff;
+    float: left;
+    position: fixed;
+    top: 0%;
+    border-bottom-color: #b30000;
+    border-style: solid;
+    border-bottom-width: 5px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
+#itens_menu {
+    float: right;
+    position: relative;
+    width: 52%;
+    top: 60%;
+}
+
+#content {
+    width: 100%;
+    float: left;
+    background-color: #fff;
+}
+
+#secao1 {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    position: static;
+    margin-top: 250px;
+}
+
+#secao2 {
+    width: 40%;
+    float: left;
+    margin-top: 250px;
+}
+
+#secao3 {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    position: static;
+    margin-top: 100px;
+}
+
+#secao4 {
+    width: 40%;
+    float: left;
+    margin-top: 100px;
+}
+
+#newsletter {
+    width: 100%;
+    background-color: #ff6666;
+    color: #fff;
+    height: 150px;
+    float: left;
+    margin-top: 100px;
+}
+
+#secao1_servicos {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 30%;
+}
+
+#secao2_servicos {
+    width: 30%;
+    float: left;
+    margin-top: 10px;
+}
+
+#secao3_servicos {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#secao31_servicos {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#secao32_servicos {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#secao33_servicos {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#secao34_servicos {
+    width: 100%;
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#secao1_cases {
+    width: 50%;
+    float: left;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+#secao2_cases {
+    width: 50%;
+    float: left;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+#secao3_cases {
+    width: 50%;
+    float: left;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+#secao4_cases {
+    width: 50%;
+    float: left;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+#secao1_quem {
+    width: 60%;
+    float: left;
+}
+
+#secao2_quem {
+    width: 40%;
+    float: left;
+}
+
+#tabela_quem {
+    width: 100%;
+    float: left;
+    background-color: #ff6666;
+    height: 200px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#secao1_contato {
+    width: 60%;
+    float: left;
+    display: inline;
+}
+
+#secao2_contato {
+    width: 40%;
+    float: left;
+}
+
+#rodape {
+    background-color: #53625c;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+    font-weight: normal;
+    width: 100%;
+    height: 185px;
+    border: none;
+}
+
+#itens_rodape1 {
+    float: left;
+    position: relative;
+    width: 33%;
+    right: 0%;
+    color: #fff;
+    margin-top: 3%;
+    font-size: 15px;
+}
+
+#itens_rodape2 {
+    float: left;
+    position: relative;
+    width: 33%;
+    right: 0%;
+    color: #fff;
+    margin-top: 3%;
+    font-size: 15px;
+}
+
+#itens_rodape3 {
+    float: left;
+    position: relative;
+    width: 33%;
+    right: 0%;
+    color: #fff;
+    margin-top: 3%;
+    font-size: 15px;
+}
+
+#fonte_rodape {
+    float: left;
+    position: relative;
+    width: 100%;
+    bottom: -15%;
+    font-size: 15px;
+    height: 20px;
+    background-color: #50575c;
+}
+
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    color: #ff4d4d;
+}
+
+b {
+    font-weight: bold;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h1.cabecalho1 {
+    font-size: 95px;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+}
+
+h1.cabecalho2 {
+    font-size: 95px;
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+
+h1.titulo1 {
+    font-size: 75px;
+}
+
+h1.tabela {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #fff;
+}
+
+h2:hover {
+    font-weight: bold;
+}
+
+h2.case1 {
+    font-size: 30px;
+    position: absolute;
+    top: 75%;
+    left: 13%;
+}
+
+h2.case2 {
+    font-size: 30px;
+    position: absolute;
+    top: 75%;
+    left: 53%;
+}
+
+h2.case3 {
+    font-size: 30px;
+    position: absolute;
+    top: 136%;
+    left: 13%;
+}
+
+h2.case4 {
+    font-size: 30px;
+    position: absolute;
+    top: 136%;
+    left: 53%;
+}
+
+h3.news_menor {
+    font-size: 25px;
+}
+
+h3.news {
+    font-size: 30px;
+}
+
+h3.tabela {
+    font-size: 25px;
+}
+
+.item_menu {
+    list-style: none;
+    float: left;
+    display: inline;
+    margin-left: 25px;
+    margin-right: 0px;
+    font-size: 18px;
+}
+
+.texto {
+    font-size: 28px;
+    line-height: 1.5;
+}
+
+.texto2 {
+    font-size: 20px;
+    line-height: 1.9;
+    text-align: left;
+}
+
+.newsletter {
+    margin-top: 43px;
+    line-height: 1.2;
+    margin-left: 50px;
+    width: 55%;
+    float: left;
+}
+
+.formulario {
+    width: 40%;
+    float: left;
+    margin-top: 82px;
+    margin-left: -25px;
+}
+
+.servico1 {
+    font-size: 50px;
+    color: #ff5050;
+}
+
+.servico2 {
+    font-size: 50px;
+    color: #33cc33;
+}
+
+.servico3 {
+    font-size: 50px;
+    color: #33ccff;
+}
+
+.servico4 {
+    font-size: 50px;
+    color: #ff9933;
+}
+
+.descricao {
+    font-size: 20px;
+    line-height: 1.3;
+}
+
+p.descricao:hover {
+    color: #000;
+}
+
+.saiba_mais {
+    font-size: 20px;
+    line-height: 1.3;
+}
