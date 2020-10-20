@@ -1,0 +1,266 @@
+/*
+Autora: Marina K.Eskelsen
+30/11/2018
+*/
+
+/*Elementos básicos*/
+
+body {
+    font-family: "Verdana", sans-serif;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: "Verdana";
+    font-size: 25px;
+    color: rgb(57, 57, 57);
+}
+
+p {
+    font-family: "Verdana";
+}
+
+
+/*Classes específicas*/
+
+a.rodape:hover {
+    color: rgb(255, 255, 255);
+}
+
+button.img {
+    background: url(img/go1.png) no-repeat;
+}
+
+
+/*Classes genéricas*/
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    /*coloca os elemementos próximos uns dos outros, o mais parto possível */
+    flex-direction: column;
+}
+
+.flex-cabecalho {
+    display: flex;
+    align-items: stretch;
+    /*permite a distribuição em percentual dos elementos*/
+    background-color: skyblue;
+}
+
+.flex-cabecalho > div {
+    /*Toda div que tiver cabeçalho*/
+    text-align: right;
+    padding-left: 0px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.flex-corpo {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-produtos {
+    display: flex;
+    flex-wrap: wrap;
+    /*Evita a deformação das coisas*/
+    flex-direction: column;
+    //background-color: rgb(135, 206, 235);
+}
+
+.flex-umproduto {
+    display: flex;
+    height: 140px;
+    background-color: white;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border: 2px solid #c7c7c7;
+    border-radius: 8px;
+    padding: 10px;
+    align-items: center;
+}
+
+.flex-umproduto > img {
+    /*Herança: td dessa div ficará com essa altura*/
+    height: 140px;
+}
+
+.nome-produto {
+    font-family: "Verdana";
+    font-size: 22px;
+    line-height: 1;
+    color: rgb(255, 20, 146);
+    padding-left: 20px;
+}
+
+.descricao-produto {
+    font-family: "Verdana";
+    font-size: 15px;
+    line-height: 1;
+    color: rgb(0, 0, 0);
+    padding-left: 20px;
+}
+
+.preco-real {
+    font-family: "Verdana";
+    font-size: 12px;
+    line-height: 0.5;
+    color: grey;
+    text-decoration: line-through;
+    padding-left: 20px;
+}
+
+.preco-comdesconto {
+    font-size: 20px;
+    line-height: 0.8;
+    color: black;
+    padding-left: 20px;
+}
+
+.preco-parcelado {
+    font-size: 12px;
+    line-height: 0.5;
+    color: blue;
+    padding-left: 20px;
+}
+
+.flex-rodape {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    font-size: 13px;
+    border-top: 2px solid #c7c7c7;
+    background-color: rgb(135, 206, 235);
+}
+
+.flex-rodape-social {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-around;
+    /*Distribui no espaço*/
+    /*background-color: rgb(185, 199, 204); */
+}
+
+.busca {
+    width: 85%;
+    height: 20px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.login {
+    width: 85%;
+    height: 20px;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.rodape {
+    font-family: "Verdana";
+    color: black;
+    font-size: 15px;
+}
+
+.center {
+    text-align: center;
+}
+
+.esquerda {
+    text-align: left;
+}
+
+.borda {
+    border: dotted;
+    border-width: 1px;
+}
+
+.margem {
+    padding-left: 20px;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.cursor_clicavel {
+    cursor: pointer;
+}
+
+.espacamento {
+    line-height: 2px;
+}
+
+.logo {
+    padding-left: 5%;
+}
+
+/*Menu*/
+
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: rgb(135, 206, 235);
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: rgb(135, 206, 235);
+  display: block;
+  position: absolute;
+  right: 50;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+
+.cinza a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+/*Identificadores*/
+
+
+#divBusca {
+    width: 100%;
+}
+
+#divLogin {
+    width: 100%;
+    text-align: center;
+}
+
+#divSobre {
+    margin: 5%;
+    //background-color: green;
+    text-align: justify;
+}
