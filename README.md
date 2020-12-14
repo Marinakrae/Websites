@@ -12,7 +12,14 @@ Nova Champ:
 - Desenvolvido em HTML;
 - Não responsivo.
 
+Padaria:
+- Sistema simples de cadastro, edição e exclusão de mercadorias de uma padaria;
+- Desenvolvido em PHP e Bootstrap.
+
 SoftDesign:
 - Baseado no website original da empresa SoftDesign (https://softdesign.com.br/);
 - Desenvolvido em HTML;
 - Não responsivo.
+
+
+
