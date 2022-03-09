@@ -8,7 +8,7 @@ Coala Shop:
 - Integração com Banco de Dados;
 - Responsivo.
 
-<img src="https://github.com/Marinakrae/imagens_sites/blob/29b16bfe4bbb09f88895e0e190eb4af41d083085/CS_1.PNG" alt="Coala Shop 1" width="200"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/29b16bfe4bbb09f88895e0e190eb4af41d083085/CS_1.PNG" alt="Coala Shop 1" width="300"/>
 ![Coala Shop Principal]()
 ![Coala Shop Secundaria](https://github.com/Marinakrae/imagens_sites/blob/f915399e264131cf98e52abf6ad364f5fcd115b9/imagem_2022-03-08_212007.png)
 
