@@ -43,14 +43,3 @@ Websites desenhados e desenvolvidos por mim para fins de estudo.
 <img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221157.png" alt="Softdesign 2" width="320"/>
 <img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221235.png" alt="Softdesign 3" width="300"/>
 </div>
-
-
-
-div.box {
-	width: 150px;
-	display: inline-block;
-}
-
-
-
-
