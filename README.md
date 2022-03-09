@@ -1,8 +1,8 @@
 <h1> Websites </h1>
 
-Websites desenhados e desenvolvidos por mim para fins de estudo. Leia o README para mais informações sobre cada um.
+Websites desenhados e desenvolvidos por mim para fins de estudo.
 
-Coala Shop: 
+<b>Coala Shop: </b>
 - Empresa inventada por mim, design original;
 - Desenvolvido em PHP;
 - Integração com Banco de Dados;
@@ -10,7 +10,7 @@ Coala Shop:
 
 <div class="box">
 <img src="https://github.com/Marinakrae/imagens_sites/blob/29b16bfe4bbb09f88895e0e190eb4af41d083085/CS_1.PNG" alt="Coala Shop 1" width="300"/>
-<img src="https://github.com/Marinakrae/imagens_sites/blob/f915399e264131cf98e52abf6ad364f5fcd115b9/imagem_2022-03-08_212007.png" alt="Coala Shop 2" width="300"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/f915399e264131cf98e52abf6ad364f5fcd115b9/imagem_2022-03-08_212007.png" alt="Coala Shop 2" width="310"/>
 </div>
   
 Nova Champ:
