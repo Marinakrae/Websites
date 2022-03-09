@@ -12,6 +12,8 @@ Nova Champ:
 - Desenvolvido em HTML;
 - Não responsivo.
 
+![Coala Shop Principal](https://drive.google.com/file/d/1f7CpHa5No4wEp4BzguJLfyDeOAfEf1NW/view?usp=sharing)
+
 Padaria:
 - Sistema simples de cadastro, edição e exclusão de mercadorias de uma padaria;
 - Desenvolvido em PHP e Bootstrap.
