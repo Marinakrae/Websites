@@ -21,7 +21,7 @@ Websites desenhados e desenvolvidos por mim para fins de estudo.
 - Não responsivo.
 
 <div class="box">
-<img src="https://github.com/Marinakrae/imagens_sites/blob/86a756dc111dcb0414e811557d3b1c169180bc28/imagem_2022-03-08_215932.png" alt="Nova Champ 1" width="435"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/86a756dc111dcb0414e811557d3b1c169180bc28/imagem_2022-03-08_215932.png" alt="Nova Champ 1" width="437"/>
 <img src="https://github.com/Marinakrae/imagens_sites/blob/1a0960b23953412d9f188bd54c68dc79e010644e/imagem_2022-03-08_220252.png" alt="Nova Champ 2" width="350"/>
 </div>
 
