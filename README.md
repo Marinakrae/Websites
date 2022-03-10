@@ -21,8 +21,8 @@ Websites desenhados e desenvolvidos por mim para fins de estudo.
 - Não responsivo.
 
 <div class="box">
-<img src="https://github.com/Marinakrae/imagens_sites/blob/86a756dc111dcb0414e811557d3b1c169180bc28/imagem_2022-03-08_215932.png" alt="Nova Champ 1" width="480"/>
-<img src="https://github.com/Marinakrae/imagens_sites/blob/1a0960b23953412d9f188bd54c68dc79e010644e/imagem_2022-03-08_220252.png" alt="Nova Champ 2" width="400"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/86a756dc111dcb0414e811557d3b1c169180bc28/imagem_2022-03-08_215932.png" alt="Nova Champ 1" width="400"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/1a0960b23953412d9f188bd54c68dc79e010644e/imagem_2022-03-08_220252.png" alt="Nova Champ 2" width="300"/>
 </div>
 
 <br>
@@ -39,7 +39,7 @@ Websites desenhados e desenvolvidos por mim para fins de estudo.
 - Não responsivo.
 
 <div class="box">
-<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221057.png" alt="Softdesign 1" width="320"/>
-<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221157.png" alt="Softdesign 2" width="320"/>
-<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221235.png" alt="Softdesign 3" width="300"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221057.png" alt="Softdesign 1" width="220"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221157.png" alt="Softdesign 2" width="220"/>
+<img src="https://github.com/Marinakrae/imagens_sites/blob/2b4df08e59cb578922b6585667e0b4f4e3d2e835/imagem_2022-03-08_221235.png" alt="Softdesign 3" width="200"/>
 </div>
